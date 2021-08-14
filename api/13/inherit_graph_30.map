@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,93,83"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_bsp_node.html" title="Encapsulates a node in a BSP tree." alt="" coords="141,5,260,32"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_node.html" title="Class representing a general&#45;purpose node an articulated scene graph." alt="" coords="153,56,248,83"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_octree.html" title="Octree datastructure for managing scene nodes." alt="" coords="149,107,253,133"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_bone.html" title="A bone in a skeleton." alt="" coords="328,25,423,52"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_scene_node.html" title="Class representing a node in the scene graph." alt="" coords="308,88,443,115"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_tag_point.html" title="A tagged point on a skeleton, which can be used to attach entities to on specific other entities." alt="" coords="513,12,629,39"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_bsp_scene_node.html" title="Specialisation of SceneNode for the BspSceneManager." alt="" coords="491,63,650,89"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_octree_node.html" title="Specialized SceneNode that is customized for working within an Octree." alt="" coords="501,113,640,140"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_p_c_z_scene_node.html" title="The PCZSceneNode is an extension used to store zone information and provide additional functionality ..." alt="" coords="491,164,651,191"/>
+</map>
